@@ -69,6 +69,7 @@
 - [Mohamed Rahmouni](https://github.com/Rahamoon)
 - [Matt Hallada](https://github.com/matthallada)
 - [Mateusz Osuch](https://github.com/mateuszosuch)
+- [Samuel Osoba](https://github.com/samuelsons)
 - [Subhag Bhatia]()
 - [Brandon Gioggia](https://github.com/bgioggia)
 - [David Bang](https://github.com/db2eb)
